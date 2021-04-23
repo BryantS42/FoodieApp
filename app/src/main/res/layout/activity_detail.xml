@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="30dp">
+
+    <ImageView
+        android:id="@+id/mealImage_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:id="@+id/mealTitle_detail"
+        style = "@style/MealDetailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/news_placeholder"
+        android:layout_below="@+id/mealImage_detail"
+        android:textColor="?android:textColorSecondary"/>
+
+    <TextView
+        android:id="@+id/subTitle"
+        style="@style/MealDetailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/meal_info_placeholder"
+        android:layout_below="@+id/mealTitle_detail"/>
+
+    <TextView
+        android:id="@+id/mealCalorie_detail"
+        style = "@style/MealDetailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/calories_detail"
+        android:layout_below="@id/subTitle"/>
+
+    <TextView
+        android:id="@+id/mealIng_detail"
+        style="@style/MealDetailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/ingredients_detail"
+        android:layout_below="@id/mealCalorie_detail"/>
+
+    <TextView
+        android:id="@+id/mealLink_detail"
+        style="@style/MealDetailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/link_detail"
+        android:layout_below="@id/mealIng_detail"
+        android:layout_marginBottom="20dp"/>
+
+
+
+</RelativeLayout>
+</ScrollView>

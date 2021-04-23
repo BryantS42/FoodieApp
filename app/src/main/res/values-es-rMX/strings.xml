@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodie App</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="meal_info_placeholder">Meal sub details</string>
+    <string name="calories_detail">calories</string>
+    <string name="ingredients_detail">Ingredients</string>
+    <string name="link_detail">link</string>
+
+    <string name="food_name_hint">Nombre de comida</string>
+    <string name="food_description_hint">Descripcion de comida</string>
+    <string name="done_button">Listo</string>
+
+    <string-array name="meal_titles">
+        <item>MeatLoaf</item>
+        <item>SpaghettiPie</item>
+        <item>ZucchiniBoats</item>
+        <item>PotRoast</item>
+        <item>RoastChicken</item>
+        <item>FriedChicken</item>
+        <item>Spaghetti_Meatballs</item>
+        <item>CrabCakes</item>
+        <item>FishSticks</item>
+        <item>Lasagña</item>
+        <item>ChiliRibs</item>
+    </string-array>
+
+    <string-array name="meal_info">
+        <item>¡Pastel de carne tradicional para la familia!</item>
+        <item>¡Deliciosa Cazuela De Pastel De Espagueti!</item>
+        <item>¡Barcos de calabacín saludables!</item>
+        <item>¡El mejor asado a la olla!</item>
+        <item>¡Sunday Roast Chicken es saludable y sabroso!</item>
+        <item>¡El mejor pollo frito crujiente y jugoso!</item>
+        <item>¡Una receta clásica de albóndigas cocidas a fuego lento!</item>
+        <item>¡Para quien ama los mariscos!</item>
+        <item>¡Húmedo por dentro y crujiente por fuera!</item>
+        <item>¡Un clásico pero con espinacas y albahaca!</item>
+        <item>¡Para los amantes del picante!</item>
+    </string-array>
+
+    <array name="meal_images">
+        <item>@drawable/meatloaf</item>
+        <item>@drawable/spapie</item>
+        <item>@drawable/zuccboat</item>
+        <item>@drawable/potroast</item>
+        <item>@drawable/roastchkn</item>
+        <item>@drawable/frychckn</item>
+        <item>@drawable/spaghmeat</item>
+        <item>@drawable/crab</item>
+        <item>@drawable/fish</item>
+        <item>@drawable/spaghetti</item>
+        <item>@drawable/rib</item>
+    </array>
+
+    <string-array name="mealCalories">
+        <item>394 calorías por rebanada</item>
+        <item>396 calorías por trozo</item>
+        <item>312 calorías por trozo</item>
+        <item>459 calorías</item>
+        <item>292 calorías</item>
+        <item>811 calorías por porción</item>
+        <item>250 calorías</item>
+        <item>197 calorías por pastel</item>
+        <item>278 calorías por porción</item>
+        <item>292 calorías per piece</item>
+        <item>486 calorías por porción</item>
+    </string-array>
+
+    <string-array name="mealIngredients">
+        <item><![CDATA[Ingredients: 3 slices bread, 1 large egg, 2/3 cup milk, 1 cup shredded cheddar cheese, 1 medium onion, &#189; cup shredded carrot, 1 tsp salt, &#188; tsp pepper, 1 lb ground beef]]></item>
+        <item><![CDATA[Ingredients 8 ounces spaghetti, 1lb ground beef, 1 small onion, 2 garlic cloves, 14 ounces spaghetti sauce, &#189; tsp salt, 1/4tsp pepper, 3 ounce reduce-fat cream cheese, 1 cup reduce-fat sour cream]]></item>
+        <item><![CDATA[2 medium zucchini (about 8in), &#190; pound ground beef, 1 small onion, &#189; cup fresh mushrooms, &#189; cup sweet red pepper, &#189; cup green pepper, 1 cup shredded cheddar cheese]]></item>
+        <item>Ingredients: 1 boneless beef chuck roast (3 to 4lbs), 2tsp pepper, 2tsp salt, 2 tablespoons canola oil, 2 medium onions, 2 celery ribs, 3 garlic cloves, 1tbsp tomato paste, 1 tablespoon thyme or 1tsp dried thyme, 1 cup dry red wine or reduced-sodium beef broth, 6 medium carrots</item>
+        <item>Ingredients: 1 medium fennel bulb, 5 large carrots, 1 large white onion, 1 medium lemon, 3 garlic cloves, 1 tablespoon honey, 1tsp kosher salt, 1tsp crushed red pepper flakes, 1tsp pepper, 1 broiler/fryer chicken (4lbs), 2 garlic cloves, 1 cup orange juice</item>
+        <item><![CDATA[Ingredients: 1 to &#190; cups all-purpose flour, 1 tablespoon dried thyme, 1 tablespoon paprika, 2tsp salt, 2tsp garlic powder, 1tsp pepper, 1 large egg, &#8531; cup 2% milk 2 tablespoons lemon juice, 1 broiler/fryer chicken (3 to 4lbs), Oil for deep-fat frying]]></item>
+        <item><![CDATA[Ingredients: 1 cup seasoned bread crumbs, 2 tablespoons grated Parmesan and Romano cheese blend, 1tsp pepper, &#189; teaspoon salt, 2 large eggs, 2lbs ground beef]]></item>
+        <item><![CDATA[Ingredients: 3 cans (6 ounces each) crab meat, 1 cup cubed bread, 2 large eggs, 3 tablespoons mayonnaise, 3 tablespoons half-and-half cream, 1 tablespoon lemon juice, 1 tablespoon butter, 1 to &#189; teaspoons seafood seasoning, 1 teaspoon Worcestershire sauce]]></item>
+        <item><![CDATA[Ingredients: &#189; cup dry bread crumbs, &#189; teaspoon salt, &#189; teaspoon paprika, &#189; teaspoon lemon-pepper seasoning, &#189; cup all-purpose flour, 1 large egg, &#190; pound cod fillets cut into 1-inch strips]]></item>
+        <item><![CDATA[Ingredients: 1 large egg, 2 cups reduced-fat ricotta cheese, 4 ounces crumbled feta cheese, &#188; cup grated Parmesan cheese, &#188; cup chopped fresh basil, 2 garlic cloves, &#188; teaspoon pepper, 1 jar (24 ounces) pasta sauce. 9 no-cook lasagna noodles]]></item>
+        <item>Ingredients: 3 tablespoons packed brown sugar, 2 tablespoons paprika, 2 tablespoons chili powder, 3 teaspoons ground cumin, 2 teaspoons garlic powder, 1 teaspoon salt, 6 pounds pork baby back ribs</item>
+
+    </string-array>
+
+    <string-array name="mealLink">
+        <item>https://www.tasteofhome.com/recipes/traditional-meat-loaf/</item>
+        <item>https://www.tasteofhome.com/recipes/spaghetti-pie-casserole/</item>
+        <item>https://www.tasteofhome.com/recipes/zucchini-boats/</item>
+        <item>https://www.tasteofhome.com/recipes/ultimate-pot-roast/</item>
+        <item>https://www.tasteofhome.com/recipes/sunday-roast-chicken/</item>
+        <item>https://www.tasteofhome.com/recipes/best-ever-fried-chicken/</item>
+        <item>https://www.tasteofhome.com/recipes/slow-cooker-spaghetti-meatballs/</item>
+        <item>https://www.tasteofhome.com/recipes/seasoned-crab-cakes/</item>
+        <item>https://www.tasteofhome.com/recipes/homemade-fish-sticks/</item>
+        <item>https://www.tasteofhome.com/recipes/spinach-basil-lasagna/</item>
+        <item>https://www.tasteofhome.com/recipes/big-john-s-chili-rubbed-ribs/</item>
+    </string-array>
+
+    <style name="MealDetailText"
+        parent="TextAppearance.AppCompat.Subhead"/>
+    <style name="MealTitle"
+        parent="TextAppearance.AppCompat.Headline"/>
+
+</resources>
